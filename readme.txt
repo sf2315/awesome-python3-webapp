@@ -1,1 +1,1 @@
-this is my python file!
+python is my first study program!
